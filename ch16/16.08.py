@@ -68,4 +68,4 @@ def birthday_stats(birthday):
     % (age, days, hours, mins, secs))
 
 print day_of_week()
-birthday_stats(birthday)
+print(birthday_stats(birthday))
